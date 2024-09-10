@@ -8,7 +8,7 @@ used icons from: https://bas.dev/work/meteocons
 \
 for me: to open a live server: run the terminal and type 'npm run dev'\
 \
-came with Readme:\
+came with Readme:
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
